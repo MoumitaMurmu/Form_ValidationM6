@@ -1,0 +1,33 @@
+.reg-form{
+    width:700px;
+    margin:10px auto;
+    margin-top:100px;
+    border:solid 2px rgb(126, 252, 23);
+    box-shadow: 10px 5px 5px 10px rgb(41, 47, 49);
+    height:600px;
+    padding:50px;
+    background:  aqua;
+    border-radius: 4%;
+    
+}
+body{
+    background: center;
+    min-height: 90vh; 
+    background-image: linear-gradient(rgba(116, 170, 252, 0.5),rgba(210, 212, 57, 0.5)), url(background.jpg);
+    overflow-x: hidden;
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+}
+.display-3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+ /* .valid-feedback, .invalid-feedback{
+    display:block;
+}  */
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+} 
