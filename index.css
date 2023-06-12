@@ -15,6 +15,7 @@ body{
     min-height: 90vh; 
     background-image: linear-gradient(rgba(116, 170, 252, 0.5),rgba(210, 212, 57, 0.5)), url(background.jpg);
     overflow-x: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     /* display:flex;
     justify-content: center;
     align-items: center; */
